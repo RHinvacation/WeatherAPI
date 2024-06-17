@@ -1,0 +1,40 @@
+{
+    "users":[
+        {
+            "userID":"001",
+            "userName":"admin"
+        },
+        {
+            "userID":"002",
+            "userName":"vite"
+        },
+        {
+            "userID":"003",
+            "userName":"axios"
+        },
+        {
+            "userID":"004",
+            "userName":"wea"
+        },
+        {
+            "userID":"005",
+            "userName":"bilibili"
+        },
+        {
+            "userID":"006",
+            "userName":"administrator"
+        },
+        {
+            "userID":"007",
+            "userName":"vuex"
+        },
+        {
+            "userID":"008",
+            "userName":"vue router"
+        },
+        {
+            "userID":"009",
+            "userName":"vue cli"
+        }
+    ]
+}
